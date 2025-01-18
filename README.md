@@ -1,5 +1,7 @@
--  [Download Azure Data Studio](download-azure-data-studio)
--  [Install Azure Data Studio](install-azure-data-studio)
+# Download and install Azure Data Studio
+
+-  [Download Azure Data Studio](#download-azure-data-studio)
+-  [Install Azure Data Studio](#install-azure-data-studio)
 -  [What's new with Azure Data Studio](https://learn.microsoft.com/en-us/azure-data-studio/download-azure-data-studio?tabs=win-install%2Cwin-user-install%2Credhat-install%2Cwindows-uninstall%2Credhat-uninstall#whats-new-with-azure-data-studio)
 -  [Supported operating systems](https://learn.microsoft.com/en-us/azure-data-studio/download-azure-data-studio?tabs=win-install%2Cwin-user-install%2Credhat-install%2Cwindows-uninstall%2Credhat-uninstall#supported-operating-systems)
 -  [System requirements](https://learn.microsoft.com/en-us/azure-data-studio/download-azure-data-studio?tabs=win-install%2Cwin-user-install%2Credhat-install%2Cwindows-uninstall%2Credhat-uninstall#system-requirements)
@@ -27,15 +29,11 @@ Expand table
 |     | .deb | [x64](https://go.microsoft.com/fwlink/?linkid=2298051) |
 |     | .rpm | [x64](https://go.microsoft.com/fwlink/?linkid=2298105) |
 
-If you have comments or suggestions or want to report a problem with downloading Azure Data Studio, submit an issue to our team on the [Azure Data Studio feedback page](https://github.com/microsoft/azuredatastudio/issues/).
-
-[](https://learn.microsoft.com/en-us/azure-data-studio/download-azure-data-studio?tabs=win-install%2Cwin-user-install%2Credhat-install%2Cwindows-uninstall%2Credhat-uninstall#install-azure-data-studio)
-
 ## Install Azure Data Studio
 
-*   [Windows](windows-installation)
-*   [macOS](macos-installation)
-*   [Linux](linux-installation)
+*   [Windows](#windows-installation)
+*   [macOS](#macos-installation)
+*   [Linux](#linux-installation)
 
 [](https://learn.microsoft.com/en-us/azure-data-studio/download-azure-data-studio?tabs=win-install%2Cwin-user-install%2Credhat-install%2Cwindows-uninstall%2Credhat-uninstall#windows-installation)
 
